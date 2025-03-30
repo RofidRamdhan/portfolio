@@ -9,7 +9,7 @@ const About = () => {
           <div className="md:w-1/3 flex justify-center">
             <img 
               src="/assets/images/profile.jpg" 
-              alt="My Profile" 
+              alt="profile" 
               className="rounded-full w-64 h-64 object-cover border-4 border-blue-500 shadow-lg hover:scale-105 transition-transform"
             />
           </div>
